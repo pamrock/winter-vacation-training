@@ -2,7 +2,7 @@ package nuc.ss.day01;
 
 /**
  * @ClassName TestDemo02
- * @Description TODO
+ * @Description 输出一些基本信息
  * @Author 12459
  * @Date 2024/1/22 18:20
  **/
